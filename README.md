@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Computers and the Internet is my passion and I believe in helping people with my abilities and knowledge base. I am learning these things from the age of 13 and it feels like learning is a part of my life. I publish that content on my YouTube channel "https://www.youtube.com/c/techyvishwajeet" to more than 100 subscribers.
+Computers and the Internet is my passion and I believe in helping people with my abilities and knowledge base. I am learning these things from the age of 13 and it feels like learning is a part of my life. 
 
    
 [![Linkedin: techyvishwajeet](https://img.shields.io/badge/-techyvishwajeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techyvishwajeet/)](https://www.linkedin.com/in/techyvishwajeet/)
