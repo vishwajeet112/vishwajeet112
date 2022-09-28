@@ -4,15 +4,12 @@
 
 Computers and the Internet is my passion and I believe in helping people with my abilities and knowledge base. I am learning these things from the age of 13 and it feels like learning is a part of my life. I publish that content on my YouTube channel "https://www.youtube.com/c/techyvishwajeet" to more than 100 subscribers.
 
-   <p align="left">
    
    [![GitHub vishwajeet112](https://img.shields.io/github/followers/vishwajeet112?label=follow&style=social)](https://github.com/vishwajeet112)
-[![Linkedin: ](https://img.shields.io/badge/-techyvishwajeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techyvishwajeet/)](https://www.linkedin.com/in/techyvishwajeet/)
-[![Twitter: ](https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/khushbooverma_)
-[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
-[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
+[![Linkedin: techyvishwajeet](https://img.shields.io/badge/-techyvishwajeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techyvishwajeet/)](https://www.linkedin.com/in/techyvishwajeet/)
+[![Twitter: techvishwajeet](https://img.shields.io/twitter/follow/techvishwajeet?style=social)](https://twitter.com/techvishwajeet)
    
-   
+   <p align="left">
       <a href="https://www.youtube.com/c/techyvishwajeet?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2BAnTv6vw-epxmQhHI0PqA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/techyvishwajeet">
