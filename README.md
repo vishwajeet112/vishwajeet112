@@ -5,7 +5,6 @@
 Computers and the Internet is my passion and I believe in helping people with my abilities and knowledge base. I am learning these things from the age of 13 and it feels like learning is a part of my life. I publish that content on my YouTube channel "https://www.youtube.com/c/techyvishwajeet" to more than 100 subscribers.
 
    
-   [![GitHub vishwajeet112](https://img.shields.io/github/followers/vishwajeet112?label=follow&style=social)](https://github.com/vishwajeet112)
 [![Linkedin: techyvishwajeet](https://img.shields.io/badge/-techyvishwajeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techyvishwajeet/)](https://www.linkedin.com/in/techyvishwajeet/)
 [![Twitter: techvishwajeet](https://img.shields.io/twitter/follow/techvishwajeet?style=social)](https://twitter.com/techvishwajeet)
    
