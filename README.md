@@ -1,6 +1,21 @@
 <h1>Hi I'm Vishwajeet</h1>
 <h3>Full Stack Web Developer</h3>
    
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Flutter Development.**
+
+- 🎓 Pursuing a Computer Science & Engineering at Bundelkhand University, Jhansi.
+
+- 💼 Actively looking for a MERN Web Development internship opportuinities.
+
+- 👯 I’m looking to collaborate on **Design Projects and Case Studies**
+
+- Founder of <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
+
+- 📫 Reach out to me at **techyvishwajeet@gmail.com**   
+   
+   
    
 ## Connect with me:
 
@@ -24,6 +39,8 @@
  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishwajeet112?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
+
+
 
 
 ---
