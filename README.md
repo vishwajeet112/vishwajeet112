@@ -1,7 +1,7 @@
-<h1>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Vishwajeet</h1>
+<h1>Hi I'm Vishwajeet</h1>
 <h3>Full Stack Web Developer</h3>
    
-<p align="left">
+   
 ## Connect with me:
 
 <p align="left">
@@ -9,8 +9,6 @@
 <a href = "https://linkedin.com/in/techyvishwajeet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/techvishwajeet"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://youtube.com/@techyvishwajeet"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
    
    
  <a href="https://www.youtube.com/c/techyvishwajeet?sub_confirmation=1">
