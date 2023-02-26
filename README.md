@@ -1,7 +1,7 @@
-<h1>Hi I'm Vishwajeet</h1>
-<h3>Full Stack Web Developer</h3>
+<h1>Hi I'm Vishwajeet Full Stack Web Developer</h3>
    
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Hi I'm Vishwajeet
+### Full Stack Web Developer
 
 - 🌱 I’m currently learning **Flutter Development.**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Design Projects and Case Studies**
 
-- Founder of <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
+- Founder at <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
 
 - 📫 Reach out to me at **techyvishwajeet@gmail.com**   
    
