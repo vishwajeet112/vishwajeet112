@@ -40,15 +40,15 @@
 <h1/>Frameworks</h1>
     
 <p align="left"> 
-  [<code><img width="15%" src="[https://www.vectorlogo.zone/logos/figma/figma-ar21.svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)"></code>](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
- 
-    
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
 <h1/>Tools</h1>
     
 <p align="left"> 
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
