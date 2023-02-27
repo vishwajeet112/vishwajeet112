@@ -34,11 +34,9 @@
 </p>
 
 <h1 align="center">Projects</h1>
-
-</div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > 
   
 </div>
 
