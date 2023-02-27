@@ -33,7 +33,7 @@
 <h1/>Languages</h1>
     
 <p align="left"> 
-   <code><img width="15%" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
+   <code><img width="15%" src="https://e7.pngegg.com/pngimages/707/18/png-clipart-the-c-programming-language-c-for-beginners-masters-computer-programming-leave-the-material-blue-angle.png"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 </p>
