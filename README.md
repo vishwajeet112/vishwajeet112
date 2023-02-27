@@ -29,12 +29,21 @@
 
 </p>
 
-<h1/>Languages & Tools</h1>
+<h1/>Languages</h1>
     
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
-    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
-    <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-indesign--v1.png"/> </a>
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
+</p>
+
+<h1/>Frameworks</h1>
+    
+<p align="left"> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+    
+</p>
+
+<h1/>Tools</h1>
+    
+<p align="left"> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
 </p>
