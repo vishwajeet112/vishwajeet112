@@ -5,15 +5,12 @@
 - 💼 Actively looking for a **MERN** Web Development internship opportuinities.
 
 - Founder at <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
-
-- 📫 Reach out to me at **techyvishwajeet@gmail.com**   
    
 <p align="left">
    
    -----
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/techyvishwajeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/techyvishwajeet112/"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:techyvishwajeet@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://leetcode.com/techyvishwajeet/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
@@ -32,7 +29,7 @@
  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishwajeet112?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
-
+-----
 <h1/>Languages</h1>
     
 <p align="left"> 
