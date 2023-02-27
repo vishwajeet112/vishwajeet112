@@ -1,10 +1,6 @@
 - 🌱 I’m currently learning **Flutter Development.**
-
 - 🎓 Pursuing a Computer Science & Engineering at Bundelkhand University, Jhansi.
-
 - 💼 Actively looking for a **MERN** Web Development internship opportuinities.
-
-- Founder at <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
 - ✉️ &nbsp;You can email me at techyvishwajeet@gmail.com. I'll try to respond as soon as possible!\
 - 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1dqoSVMrKy0ZkqH1yYGNnPWY0CtPmyWAF/view?usp=sharing) for more details about my work experience.
    
