@@ -14,7 +14,7 @@
 <a href = "https://linkedin.com/in/techyvishwajeet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/techvishwajeet"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://youtube.com/@techyvishwajeet"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-   
+   <br>
  <a href="https://www.youtube.com/c/techyvishwajeet?sub_confirmation=1">
  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2BAnTv6vw-epxmQhHI0PqA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   
