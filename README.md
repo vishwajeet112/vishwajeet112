@@ -54,3 +54,26 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+
+# 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/vishwajeet112/github-readme-stats"><img alt="vishwajeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeet112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vishwajeet112/github-readme-stats"><img alt="vishwajeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet112&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <br/>
+<br>
+
+<br/>
+<br>
+
+<a href="https://github.com/vishwajeet112/github-readme-activity-graph"><img alt="Vishwajeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwajeet112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## ❤ Views and Followers
+<a href="https://github.com/vishwajeet112/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vishwajeet112">
+</a>
+
+<a href="https://github.com/vishwajeet112?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a> 
+![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
