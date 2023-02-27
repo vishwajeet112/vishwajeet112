@@ -56,7 +56,16 @@
 </p>
 
 
-# My Github Stats
+<h1/><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"/> My Streak</h1>
+    
+<p align="center">
+    <a href="https://github.com/vishwajeet112/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vishwajeet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet112&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+# 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/vishwajeet112/github-readme-stats"><img alt="vishwajeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeet112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -67,8 +76,6 @@
 
 <br/>
 <br>
-
-<a href="https://github.com/vishwajeet112/github-readme-activity-graph"><img alt="Vishwajeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwajeet112&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/vishwajeet112/github-profile-views-counter">
