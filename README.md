@@ -5,6 +5,9 @@
 - 💼 Actively looking for a **MERN** Web Development internship opportuinities.
 
 - Founder at <a href="https://www.linkedin.com/company/crazywebdev" target="_blank">CrazyWebDev Technologies</a>
+- 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+- ✉️ &nbsp;You can email me at techyvishwajeet@gmail.com. I'll try to respond as soon as possible!\
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1dqoSVMrKy0ZkqH1yYGNnPWY0CtPmyWAF/view?usp=sharing) for more details about my work experience.
    
 <p align="left">
    
@@ -29,6 +32,16 @@
  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishwajeet112?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
+
+<h1 align="center">Projects</h1>
+
+</div>
+<div  align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > 
+  
+</div>
+
 
 <h1/>Languages</h1>
     
