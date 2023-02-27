@@ -36,7 +36,7 @@
 <h1 align="center">Projects</h1>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > 
+ <a href="https://github.com/vishwajeet/parathawallah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > </a>
   
 </div>
 
