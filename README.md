@@ -16,7 +16,8 @@
 <h1 align="center">Projects</h1>
 <div  align="center">
  
- <a href="https://github.com/vishwajeet112/parathawallah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby" > </a>
+<a href="https://github.com/vishwajeet112/parathawallah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/vishwajeet112/CHATAPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=CHATAPP&show_icons=true&theme=great-gatsby"></a>
   
 </div>
 
