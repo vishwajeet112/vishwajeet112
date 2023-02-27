@@ -29,25 +29,26 @@
  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vishwajeet112?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
------
+
 <h1/>Languages</h1>
     
 <p align="left"> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 </p>
------
+
 <h1/>Frameworks</h1>
     
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
     
 </p>
------
 
 <h1/>Tools</h1>
     
 <p align="left"> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
------
-
