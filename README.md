@@ -76,10 +76,3 @@
 
 <br/>
 <br>
-
-## ❤ Views and Followers
-<a href="https://github.com/vishwajeet112/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vishwajeet112">
-</a>
-
-<a href="https://github.com/vishwajeet112?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a>
