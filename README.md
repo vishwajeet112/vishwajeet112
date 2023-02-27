@@ -1,5 +1,3 @@
-### Full Stack MERN Web Developer
-
 - 🌱 I’m currently learning **Flutter Development.**
 
 - 🎓 Pursuing a Computer Science & Engineering at Bundelkhand University, Jhansi.
@@ -10,16 +8,12 @@
 
 - 📫 Reach out to me at **techyvishwajeet@gmail.com**   
    
-   
-   
 ## Connect with me:
 
 <p align="left">
-
 <a href = "https://linkedin.com/in/techyvishwajeet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/techvishwajeet"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://youtube.com/@techyvishwajeet"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-   
    
  <a href="https://www.youtube.com/c/techyvishwajeet?sub_confirmation=1">
  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2BAnTv6vw-epxmQhHI0PqA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -35,8 +29,7 @@
 
 </p>
 
-### 🧰 Languages & Tools
-<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tools I Use</h1>
+<h1/>Languages & Tools</h1>
     
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
