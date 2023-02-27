@@ -8,14 +8,12 @@
 
 - 📫 Reach out to me at **techyvishwajeet@gmail.com**   
    
-## Connect with me:
-
 <p align="left">
    
    -----
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/techyvishwajeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/techyvishwajeet112/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/techyvishwajeet112/"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:techyvishwajeet@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://leetcode.com/techyvishwajeet/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
