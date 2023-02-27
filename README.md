@@ -35,16 +35,19 @@
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
 </p>
-
+-----
 <h1/>Frameworks</h1>
     
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
     
 </p>
+-----
 
 <h1/>Tools</h1>
     
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
 </p>
+-----
+
