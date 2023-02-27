@@ -40,7 +40,8 @@
 <h1/>Frameworks</h1>
     
 <p align="left"> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+  [<code><img width="15%" src="[https://www.vectorlogo.zone/logos/figma/figma-ar21.svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)"></code>](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+ 
     
 </p>
 
