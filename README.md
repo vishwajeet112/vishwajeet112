@@ -8,14 +8,6 @@
 <a href="mailto:techyvishwajeet@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
 
-<h1 align="center">Projects</h1>
-<div  align="center">
- 
-<a href="https://github.com/vishwajeet112/parathawallah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=parathawallah&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/vishwajeet112/CHATAPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet112&repo=CHATAPP&show_icons=true&theme=great-gatsby"></a>
-  
-</div>
-
 
 <h1/>Languages</h1>
     
@@ -44,15 +36,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
-
-
-<h1/><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"/> My Streak</h1>
-    
-<p align="center">
-    <a href="https://github.com/vishwajeet112/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vishwajeet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet112&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
 
 
