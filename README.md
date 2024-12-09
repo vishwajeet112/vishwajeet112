@@ -9,7 +9,6 @@
 </p>
 
 
-<h1/>Languages</h1>
     
 <p align="left"> 
    <code><img width="15%" src="https://e7.pngegg.com/pngimages/707/18/png-clipart-the-c-programming-language-c-for-beginners-masters-computer-programming-leave-the-material-blue-angle.png"></code>
@@ -17,7 +16,7 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 </p>
 
-<h1/>Frameworks</h1>
+
     
 <p align="left"> 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -25,7 +24,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
-<h1/>Databases</h1>
     
 <p align="left"> 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
